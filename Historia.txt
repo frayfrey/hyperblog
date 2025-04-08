@@ -2,8 +2,6 @@ Esta es la historia de Frei Cortes
 
 Frei Cortes tiene 29.1 años y nacio en colombia
 
-<<<<<<< HEAD
+
 Hoy hablaremos de su vida
-=======
-Hoy hablaremos de su odisea
->>>>>>> cabecera
+
